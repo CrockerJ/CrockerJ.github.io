@@ -1,0 +1,26 @@
+.myheader{
+	margin-bottom: 50px;
+}
+.body{
+	background: gray										;
+}
+.navbar{
+	background: #000000;
+}
+#topbar{
+	color: white;
+}
+#barattop{
+	color: white;
+}
+#wave{
+	margin: auto;
+}
+/*#profile{
+}*/
+.jumbotron{
+	background-image:url("imgs/background.jpeg");
+	background-size: cover;
+	height:100%;
+	background-position: center;
+}
